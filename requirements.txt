@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+ytmusicapi
+scikit-learn
+transformers
+torch
+tqdm
+joblibq
